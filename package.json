@@ -1,0 +1,19 @@
+{
+  "name": "YATB",
+  "version": "0.5.0",
+  "description": "A Typescript Bot Based Of Discord.js v12",
+  "main": "build/index.js",
+  "repository": "https://github.com/ionadev/YATB.git",
+  "author": "Piyush Bhangale",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/node": "^11.11.3",
+    "discord.js": "discordjs/discord.js#df1889ab4902416de2bf6b3c144d55e35dbf116f",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "start": "node build/index.js",
+    "build": "tsc"
+  }
+}
