@@ -2,3 +2,4 @@
 /yarn.lock
 /build/*
 /yarn-error.log
+/data/*
