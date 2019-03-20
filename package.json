@@ -9,7 +9,9 @@
   "private": false,
   "dependencies": {
     "@types/node": "^11.11.3",
+    "better-sqlite-pool": "^0.2.2",
     "discord.js": "discordjs/discord.js#df1889ab4902416de2bf6b3c144d55e35dbf116f",
+    "enmap": "^4.8.1",
     "typescript": "^3.3.3333"
   },
   "scripts": {
